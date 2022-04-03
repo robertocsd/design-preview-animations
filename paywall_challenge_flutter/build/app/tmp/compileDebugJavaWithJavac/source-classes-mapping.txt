@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/paywall_challenge/BuildConfig.java
+ com.example.paywall_challenge.BuildConfig

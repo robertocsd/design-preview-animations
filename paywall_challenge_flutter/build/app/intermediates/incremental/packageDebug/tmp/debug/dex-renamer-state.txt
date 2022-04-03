@@ -1,0 +1,4 @@
+#Sat Apr 02 18:49:00 CST 2022
+base.0=/Users/robertocarlos/Desktop/Clay - Challenge/paywall-challenge-robertocsd/paywall_challenge_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
