@@ -1,16 +1,10 @@
 # paywall_challenge
 
-A new Flutter project.
+This challenge was made by Roberto Carlos 
+https://www.linkedin.com/in/roberto-salmer%C3%B3n-285137199/
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app has my own mindset 'Be a human building software for humans' and not only a machine that writes code seeing something in Figma. No, we are here to do more than programming, for example I slowed down the velocity of the listview animation, because users can't read or see what's happening in a proper way. You'll see many details like this in the challenge.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I hope you enjoy to review it! 
